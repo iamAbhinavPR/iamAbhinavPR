@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @iamAbhinavPR, a passionate programmer.
+- 👋 Hi, I’m @iamAbhinavPR, a passionate about programming.
 
-- 🌏 A human with 16 years of experience on earth and trying make the world a better place. 
-- 👀 I’m interested to learn new things.
-- 🌱 I’m currently learning python.
-- 🧑‍💻 I'm a beginner in programming.
+- 🌏 Someone who's been on Earth for 16 years and trying to make the world a better place.
+- 👀 I’m currently learning python.
 
 <!---
 iamAbhinavPR/iamAbhinavPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
