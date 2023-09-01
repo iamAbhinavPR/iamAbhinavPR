@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Abhinav PR, a passionate about programming.
-- 👀 I’m currently learning python.
-
-<!---
-iamAbhinavPR/iamAbhinavPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I'm Abhinav PR 👋🏼
+Currently learning:
+```
+Python
+Svelte 
+```
+My projects:
+- [Code generator (Svelte)](codegenerator1.vercel.app)
