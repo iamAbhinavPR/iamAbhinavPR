@@ -5,4 +5,4 @@ Python
 Svelte 
 ```
 My projects:
-- [Code generator (Svelte)](codegenerator1.vercel.app)
+- [dotCODE (Svelte)](codegenerator1.vercel.app)
